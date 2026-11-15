@@ -1,8 +1,0 @@
-@media print{
-  .noprint,.topbar,.footer,.drawer-wrap,.toasts,.backtop,.announce,.toolbar{display:none!important}
-  .print-only{display:block!important}
-  body{background:#fff!important;color:#000!important}
-  .page{animation:none!important}
-  .glass-m{box-shadow:none!important;border:0!important;background:#fff!important;backdrop-filter:none!important}
-  .reveal{opacity:1!important;transform:none!important}
-}

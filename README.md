@@ -1,7 +1,7 @@
 # foodstallpricelist
 
-Modern food stall website: menu, cart, add-ons, combo deals, promo codes, order receipts, admin panel and installable app.
-npm install
-npm run dev
-npm run build
-Edit `src/data/` to change prices, hours, promos and announcements.
+A neumorphic food menu with parallax. Edit `src/data/menu.js` for prices and `src/data/site.js` for the name and hours.
+
+    npm install
+    npm run dev
+    npm run build
